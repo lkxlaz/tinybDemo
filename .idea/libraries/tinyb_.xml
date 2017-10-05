@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tinyb ">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/tinyb" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/tinyb" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/tinyb" recursive="false" />
+  </library>
+</component>
